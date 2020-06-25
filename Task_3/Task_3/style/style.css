@@ -1,0 +1,47 @@
+/* style.css */
+* {
+    box-sizing: border-box;
+
+}
+
+#header {
+    background-color: grey;
+    width: 350px;
+}
+
+#green {
+    background-color: green;
+    border: 5px solid black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    
+
+}
+
+#blue {
+    background-color:blue;
+    border: 5px solid black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 5em;
+}
+
+#yellow {
+    background-color: yellow;
+    border: 5px solid black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 10em;
+}
+
+#red {
+    background-color:red;
+    border: 5px solid black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 15em;
+}
